@@ -1,0 +1,21 @@
+body{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 19%, rgba(111,29,253,1) 55%);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-weight: bold;
+   font-size: 30px;
+   color: aquamarine;
+   }
+   #main{
+   font-size: 40px;
+   }
+   #list{
+   font-size: 19px;
+   color: cyan;
+   }
+   #camera{
+   border-width: 2px;
+   border-style: dotted;
+   width: 350px;
+   height: 300px;
+   }
